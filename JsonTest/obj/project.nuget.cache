@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "redWnDGGRd1rl5517zkmQNvHxDvsMF9NIlerWa2cElabj8xRsB2Z45Yo0+KRsXtvtnBnDA7zY693xfJWLb47iA==",
+  "success": true,
+  "projectFilePath": "/home/chicken10dys/RiderProjects/JsonTest/JsonTest/JsonTest.csproj",
+  "expectedPackageFiles": [
+    "/home/chicken10dys/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
